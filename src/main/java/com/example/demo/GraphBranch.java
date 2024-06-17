@@ -13,4 +13,5 @@ public class GraphBranch implements Serializable {
     private String name;
     private Date endDate;
     private Date startDate;
+    private String committer;
 }
